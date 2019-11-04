@@ -29,3 +29,6 @@ CANCEL
 - 선택자 우선순위 (CSS Specificity)
 - Block요소, Inline요소의 특징과 차이점
 - Inline Block을 활용하는 가로배치 방법
+
+## 이미지 리소스 출처
+[Robot Vectors by Vecteezy](https://www.vecteezy.com/free-vector/robot)
